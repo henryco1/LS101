@@ -1,0 +1,17 @@
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "Make sure to enter a valid name."
+first_num: "What is the first number?"
+second_num: "What is the second number?"
+invalid_num: "Invalid number"
+operator_num_prompt: 
+    "What operation would you like to perform?\n
+    1) add\n
+    2) subtract\n
+    3) multiply\n
+    4) divide\n"
+correct_operator: "Must enter 1, 2, 3, or 4"
+two_nums: "the two numbers..."
+div_zero_error: "Error: cannot divide by 0"
+result_is: "The result is "
+again: "Do you want to calculate again? (Y to calculate again)"
+thanks: "Thank you for using my calculator"
